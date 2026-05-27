@@ -1,4 +1,4 @@
-# Simple-Charity
+# Simple Charity
 Last Project: Praktikum Pemrograman Lanjut
 
 Kelas: SI - A
